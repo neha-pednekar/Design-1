@@ -11,6 +11,8 @@
  //       O(1) for add(), remove() and contains() according to the constrained.
  // Space: O(n + b) as we need to store b number of buckets and in those buckets reside all n elements.
 
+ // Did this code successfully run on Leetcode : yes
+ // Any problem you faced while coding this : no
 public class DesignHashSetUsingArray {
     public static void main(String[] args) {
         DesignHashSetUsingArray myHashSet = new DesignHashSetUsingArray();

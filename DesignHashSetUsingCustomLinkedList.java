@@ -10,6 +10,9 @@
 
 // Time: O(n / b) where n is the number of all values being inserted and b is the size of the bucket.
 // Space: O(n + b) as we need to store b number of buckets and in those buckets reside all n elements.
+
+// Did this code successfully run on Leetcode : yes
+// Any problem you faced while coding this : no
 public class DesignHashSetUsingCustomLinkedList {
 public static void main(String[] args) {
         DesignHashSetUsingCustomLinkedList myHashSet = new DesignHashSetUsingCustomLinkedList();

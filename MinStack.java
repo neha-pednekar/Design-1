@@ -9,6 +9,9 @@ import java.util.Stack;
 
 // Time: O(1) for push(), pop(), top(), getMin() operations
 // Space: O(n) as we use a space worth n elements to maintain the main and min stack
+
+// Did this code successfully run on Leetcode : yes
+// Any problem you faced while coding this : no
 public class MinStack {
     public static void main(String[] args) {
         MinStack minStack = new MinStack();
