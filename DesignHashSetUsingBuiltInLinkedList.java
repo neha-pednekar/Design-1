@@ -1,5 +1,3 @@
-package com.nehapednekar.S30.week1;
-
 import java.util.LinkedList;
 
 /*

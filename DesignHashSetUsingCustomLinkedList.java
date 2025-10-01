@@ -1,5 +1,3 @@
-package com.nehapednekar.S30.week1;
-
 /*
  * Problem: Design HashSet
  * Approach: Using Custom Linked List
